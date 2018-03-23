@@ -1,0 +1,13 @@
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory4\bin\Debug\Factory4.exe.config
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory4\bin\Debug\Factory4.exe
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory4\bin\Debug\Factory4.pdb
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory4\obj\x86\Debug\Factory4.exe
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory4\obj\x86\Debug\Factory4.pdb
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory4\bin\Debug\Factory4.exe.config
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory4\bin\Debug\Factory4.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory4\bin\Debug\Factory4.pdb
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory4\obj\x86\Debug\Factory4.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory4\obj\x86\Debug\Factory4.pdb
+C:\Users\syed.izhar\Downloads\BuilderDemo\Factory4\bin\Debug\Factory4.exe.config
+C:\Users\syed.izhar\Downloads\BuilderDemo\Factory4\obj\x86\Debug\Factory4.exe
+C:\Users\syed.izhar\Downloads\BuilderDemo\Factory4\obj\x86\Debug\Factory4.pdb

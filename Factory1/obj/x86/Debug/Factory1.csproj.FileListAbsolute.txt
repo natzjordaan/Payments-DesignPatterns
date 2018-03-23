@@ -1,0 +1,10 @@
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory1\bin\Debug\Factory1.exe
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory1\bin\Debug\Factory1.pdb
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory1\obj\x86\Debug\Factory1.exe
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory1\obj\x86\Debug\Factory1.pdb
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory1\bin\Debug\Factory1.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory1\bin\Debug\Factory1.pdb
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory1\obj\x86\Debug\Factory1.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory1\obj\x86\Debug\Factory1.pdb
+C:\Users\syed.izhar\Downloads\BuilderDemo\Factory1\obj\x86\Debug\Factory1.exe
+C:\Users\syed.izhar\Downloads\BuilderDemo\Factory1\obj\x86\Debug\Factory1.pdb

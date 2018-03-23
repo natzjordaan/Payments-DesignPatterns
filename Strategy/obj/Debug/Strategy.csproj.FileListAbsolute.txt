@@ -1,0 +1,6 @@
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Strategy\bin\Debug\Strategy.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Strategy\bin\Debug\Strategy.pdb
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Strategy\obj\Debug\Strategy.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Strategy\obj\Debug\Strategy.pdb

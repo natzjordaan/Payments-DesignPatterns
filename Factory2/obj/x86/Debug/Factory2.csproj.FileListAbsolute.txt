@@ -1,0 +1,12 @@
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory2\bin\Debug\Factory2.exe
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory2\bin\Debug\Factory2.pdb
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory2\obj\x86\Debug\Factory2.exe
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory2\obj\x86\Debug\Factory2.pdb
+C:\Users\sizhar\Downloads\patterns-library\pattern-factories-exercise-files\src\Factory2\obj\x86\Debug\Factory2.csprojResolveAssemblyReference.cache
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory2\bin\Debug\Factory2.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory2\bin\Debug\Factory2.pdb
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory2\obj\x86\Debug\Factory2.csprojResolveAssemblyReference.cache
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory2\obj\x86\Debug\Factory2.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\Factory2\obj\x86\Debug\Factory2.pdb
+C:\Users\syed.izhar\Downloads\BuilderDemo\Factory2\obj\x86\Debug\Factory2.exe
+C:\Users\syed.izhar\Downloads\BuilderDemo\Factory2\obj\x86\Debug\Factory2.pdb

@@ -1,0 +1,7 @@
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\BuilderDemo\bin\Debug\BuilderDemo.pdb
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.csprojResolveAssemblyReference.cache
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.exe
+C:\Users\sizhar\Downloads\patterns-library\design-patterns-builder-exercise-files\demos\after\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.pdb
+C:\Users\syed.izhar\Downloads\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.exe
+C:\Users\syed.izhar\Downloads\BuilderDemo\BuilderDemo\obj\x86\Debug\BuilderDemo.pdb
